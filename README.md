@@ -1,74 +1,26 @@
 # practica-github
 Repo para practicar Git y GitHub
 
-<!-- Profile Header -->
-<h1 align="center">👋 Hey there! I'm <strong>Santiago Echeverri Duque</strong></h1>
+# 👋 Hey there! I'm **Santiago Echeverri Duque**  
 
-<p align="center">
-  🚀 <strong>DevOps Engineer | Site Reliability Engineer | Cloud Specialist</strong>  
-</p>
+🚀 **DevOps Engineer | Site Reliability Engineer | Cloud Specialist**
 
-<p align="center">
-  <em>“Keep learning. Keep building. Keep evolving.”</em> ⚙️  
-</p>
+I’m passionate about designing **resilient, scalable, and automated systems** that make software delivery smoother, faster, and more reliable.  
+For me, technology is not just about tools — it’s about **creativity, optimization, teamwork, and problem-solving**. I love turning complex challenges into elegant, automated solutions that improve both performance and collaboration.  
 
----
+☁️ My main playgrounds are **cloud infrastructure, automation pipelines, and system reliability**. Whether it’s deploying on AWS, improving CI/CD workflows, or reducing toil through smart automation — I’m always chasing better efficiency and stability.  
 
-### 🧠 About Me
-
-I'm passionate about designing **resilient, scalable, and automated systems** that make software delivery smoother, faster, and more reliable.  
-I believe in combining **creativity, optimization, teamwork, and problem-solving** to build systems that truly make an impact.  
-
-☁️ My expertise lies in **cloud infrastructure**, **automation pipelines**, and **system reliability**.  
-Whether it’s deploying on AWS, improving CI/CD workflows, or reducing toil through smart automation — I’m always looking to push things forward.
-
-When I’m not in front of a terminal, you’ll find me:  
-🎮 immersed in video games  
-✈️ exploring new places  
-💪 hitting the gym  
-📺 or catching up on some anime  
+When I’m not deep in YAML files or debugging production systems, you’ll probably find me:  
+🎮 immersed in video games,  
+✈️ exploring new places,  
+💪 hitting the gym, or  
+📺 catching up on my favorite anime.  
 
 ---
 
-### 🧰 Tech Stack
+### 🌐 Connect with me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- 💻 [GitHub](https://github.com/your-username)  
+- ✉️ [Email](mailto:youremail@example.com)  
 
-<div align="center">
-
-| Area | Tools & Technologies |
-|------|----------------------|
-| ☁️ Cloud | AWS · GCP · Azure |
-| ⚙️ DevOps | Docker · Kubernetes · Terraform · Ansible |
-| 🚀 CI/CD | GitHub Actions · Jenkins · GitLab CI |
-| 💻 Languages | Python · Bash · Go · JavaScript |
-| 📊 Monitoring | Prometheus · Grafana · ELK Stack · Datadog |
-| 🧩 Other | Linux · Git · Networking · Automation |
-
-</div>
-
----
-
-### 🌍 Connect With Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
-### 📈 GitHub Stats  
-
-<div align="center">
-
-![Santiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
-
-</div>
-
+> *“Keep learning. Keep building. Keep evolving.”* ⚙️  
