@@ -1,4 +1,4 @@
-# practica-github
+# Repositorio para la Practica Git y Github
 Repo para practicar Git y GitHub
 
 ## Descripción
